@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prajjwa1602
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning data analyst
+- 🌱 I’m currently learning data analytics.
 - 💞️ I’m looking to collaborate on data analysts
 - 📫 prajjwals704@gmail.com
 
